@@ -19,3 +19,15 @@ body{
 #campus_life{
     color: white;
 }
+.achievement_head{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+.achievement_head i{
+    float: right;
+}
+.Achievement_text span{
+    color: orange;
+}
